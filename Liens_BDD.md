@@ -7,7 +7,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Taux de mortalité générale | | 🔴 | |
+| Taux de mortalité générale | https://www.data.gouv.fr/datasets/causes-de-deces| 🟢 | |
 | Taux de mortalité prématurée (<75 ans) | | 🔴 | |
 | Surmortalité cardiovasculaire | | 🔴 | |
 | Surmortalité cancers | | 🔴 | |
@@ -33,7 +33,7 @@
 | Taux natalité | | 🔴 | |
 | % Population 15-30 ans | | 🔴 | |
 | % Population 50+ | | 🔴 | |
-
+| % Population slon l'age| https://www.insee.fr/fr/statistiques/8581696|🟢|cette bd traite la population selon l'age et le sexe |
 ## D. ACCÈS AUX SOINS (10%) — 2 variables
 
 | Variable | Lien(s) source | Statut | Notes |
@@ -57,7 +57,7 @@
 | Ratio besoin/offre (auto-calc) | — | ⚙️ | Calculée à partir des scores |
 | Présence centre de santé | | 🔴 | |
 | Présence pharmacie | | 🔴 | |
-
+|nb des centres deja implementes|  https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=e0b99aac-98d0-4626-80bf-a1e95796ea93,https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=7b8218bc-faf9-4660-a8d8-1027e5679f08,https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=cd493959-fb03-41e5-9347-0edd14dfbc22|🟡 | j ai pas encore bien verifie si ces bd contiennent des donnees vraiment utiles
 ---
 
 # Score Attractivité — Variables
@@ -67,7 +67,7 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Budget municipal | | 🔴 | |
-| Revenu moyen ménage | | 🔴 | |
+| Revenu moyen ménage | https://www.insee.fr/fr/statistiques/8984752 ,,,https://www.insee.fr/fr/statistiques/8229323| 🟢 | |
 | Taux chômage | | 🔴 | |
 | Prix logement (EUR/m²) | | 🔴 | |
 
