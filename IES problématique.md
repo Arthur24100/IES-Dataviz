@@ -50,7 +50,7 @@ visualisation = russel
 
 pré-traitement = sarah 
 
-modèle = roua
+modèle = roua, ghada
 
 
 
