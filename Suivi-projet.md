@@ -7,22 +7,17 @@
 
 | Champ | Détail |
 |---|---|
-| Nom du projet | |
-| Client / Commanditaire | |
-| Encadrant(s) | |
-| Date de début | |
-| Date de fin estimée | |
-| Dépôt / outil de gestion | |
+| Nom du projet |Projet IES |
 
 ## Équipe
 
 | Membre | Rôle | Contact |
 |---|---|---|
-| Membre 1 | | |
-| Membre 2 | | |
-| Membre 3 | | |
-| Membre 4 | | |
-| Membre 5 | | |
+| Membre 1 |Arthur|Gestion de projet|
+| Membre 2 |Sarah |Pré-traitement |
+| Membre 3 |Russel |Visualisation |
+| Membre 4 |Roua |Model |
+| Membre 5 |Ghada |Model |
 
 ## Sommaire des réunions
 
