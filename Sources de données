@@ -1,0 +1,26 @@
+# Sources de données — Projet IES (Score Médical & Score Attractivité, Nouvelle-Aquitaine)
+
+---
+
+## 0. Référentiels géographiques (indispensables pour toutes les jointures)
+
+| Donnée | Description | Lien |
+|---|---|---|
+| Code officiel géographique (COG) | Liste des communes, codes INSEE, EPCI, départements, régions | https://www.insee.fr/fr/information/2560452 |
+| Contours communaux (IGN Admin Express) | Fonds de carte communes/EPCI/départements pour la cartographie | https://geoservices.ign.fr/adminexpress |
+| Découpage Nouvelle-Aquitaine (EPCI, communes) | data.gouv.fr | https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/ |
+| Base Sirene (localisation d'entreprises/établissements) | Utile pour géolocaliser pharmacies, cabinets, commerces | https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/ |
+
+---
+
+## A. MORTALITÉ (30%)
+
+| Variable | Source | Lien |
+|---|---|---|
+| Causes de décès (mortalité générale, prématurée, cardiovasculaire, cancers, respiratoire) — CépiDc/Inserm | Open data détaillé par cause, âge, sexe, département | https://opendata-cepidc.inserm.fr/ |
+| Causes de décès — miroir data.gouv.fr | Fichiers Drees/CépiDc, 2015-2023, par cause CIM-10 | https://www.data.gouv.fr/datasets/causes-de-deces/ |
+| Taux de mortalité générale et prématurée (indicateurs territorialisés) | Observatoire des Territoires (ANCT) | https://www.observatoire-des-territoires.gouv.fr/mortalite-toutes-causes |
+| Surmortalité par pathologie (cancers, cardiovasculaire) — Fnors/ORS | Scores et indicateurs régionaux de santé | https://www.scoresante.org/ |
+| État civil — décès (INSEE) | Fichier des décès par commune | https://www.insee.fr/fr/information/4767262 |
+
+---
