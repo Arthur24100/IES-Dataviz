@@ -69,8 +69,8 @@
 |---|---|---|---|
 | Budget municipal | | 🔴 | |
 | Revenu moyen ménage | https://www.insee.fr/fr/statistiques/8984752 ,,,https://www.insee.fr/fr/statistiques/8229323| 🟢 | |
-| Taux chômage | | 🔴 | |
-| Prix logement (EUR/m²) | | 🔴 | |
+| Taux chômage | https://www.insee.fr/fr/statistiques/4805248| 🟢 | |
+| Prix logement (EUR/m²) | https://www.data.gouv.fr/datasets/prix-immobilier-par-commune-ventes-2014-a-2025-dvf-millesime-2026| 🟢 | |
 
 ## C. QUALITÉ DE VIE - ÉQUIPEMENTS (15%) — 6 variables
 
