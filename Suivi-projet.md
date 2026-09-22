@@ -34,12 +34,7 @@
 
 ## Comptes-rendus de réunion
 
-### Réunion 1 — JJ/MM/AAAA {#reunion-1}
-
-#### Ordre du jour
-1.
-2.
-3.
+### Réunion 1 — 22/09/2026 {#reunion-1}
 
 #### Points discutés
 - Optimisation spatiale prédictive pour santé publique départementale  
@@ -52,37 +47,38 @@
     - Score Medicale
         Suivant plusieurs entrées faire un score par ville pour en déduire un score sur 100, les entrés possible sont les suivante :
         Variables d'entrée (catégories) :
-        A. MORTALITÉ (30%) - 5 variables
-            Taux de mortalité générale
-            Taux de mortalité prématurée (<75 ans)
-            Surmortalité cardiovasculaire
-            Surmortalité cancers
-            Surmortalité respiratoire
-        B. MORBIDITÉ (30%) 
-            Prévalence diabète
-            Prévalence hypertension
-            Prévalence surpoids/obésité
-            Prévalence BPCO/asthme
-        % Population avec au moins 1 maladie chronique
-        C. DÉMOGRAPHIE (20%) - 6 variables
-            % Population 65+
-            % Population 75+
-            % Population 85+
-            Taux natalité
-            % Population 15-30 ans
-            % Population 50+
-        D. ACCÈS AUX SOINS (10%) - 2 variables
-            Consultations urgence par habitant/an
-            Délai moyen attente consultation généraliste
-        E. VULNÉRABILITÉ SOCIALE (7%) - 1 variable
-            % Population migrants/étrangers
-        F. OFFRE (6 variables) ← NOUVEAU
-            Population totale
-            Nombre médecins généralistes
-            Densité médicale (auto-calc)
-            Ratio besoin/offre (auto-calc)
-            Présence centre santé
-            Présence pharmacie
+
+            A. MORTALITÉ (30%) - 5 variables
+                Taux de mortalité générale
+                Taux de mortalité prématurée (<75 ans)
+                Surmortalité cardiovasculaire
+                Surmortalité cancers
+                Surmortalité respiratoire
+            B. MORBIDITÉ (30%) 
+                Prévalence diabète
+                Prévalence hypertension
+                Prévalence surpoids/obésité
+                Prévalence BPCO/asthme
+                % Population avec au moins 1 maladie chronique
+            C. DÉMOGRAPHIE (20%) - 6 variables
+                % Population 65+
+                % Population 75+
+                % Population 85+
+                Taux natalité
+                % Population 15-30 ans
+                % Population 50+
+            D. ACCÈS AUX SOINS (10%) - 2 variables
+                Consultations urgence par habitant/an
+                Délai moyen attente consultation généraliste
+            E. VULNÉRABILITÉ SOCIALE (7%) - 1 variable
+                % Population migrants/étrangers
+            F. OFFRE (6 variables) ← NOUVEAU
+                Population totale
+                Nombre médecins généralistes
+                Densité médicale (auto-calc)
+                Ratio besoin/offre (auto-calc)
+                Présence centre santé
+                Présence pharmacie
 
 
     - Score Attractivité 
