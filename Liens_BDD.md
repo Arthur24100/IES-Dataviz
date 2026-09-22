@@ -55,8 +55,9 @@
 | Nombre médecins généralistes | | 🔴 | |
 | Densité médicale (auto-calc) | — | ⚙️ | Calculée : médecins / population |
 | Ratio besoin/offre (auto-calc) | — | ⚙️ | Calculée à partir des scores |
-| Présence centre de santé | | 🔴 | |
-| Présence pharmacie | | 🔴 | |
+| Ratio besoin/offre  | | 🟢 | indicateur d'accessibilité à la population pour chaque commune en fonction de l'offre et de la demande de soin de premier recours et de l'âge des médecins, prend en compte l'âge de la population et le niveau d’activité des professionnels en exercice  |
+| Présence centre de santé |https://defis.data.gouv.fr/datasets/67e43007cd5e91b9fdcbc7b3 | 🟢 | Télécharger l'excel établissement |
+| Présence pharmacie | https://defis.data.gouv.fr/datasets/67e43007cd5e91b9fdcbc7b3| 🟢 | Télécharger l'excel établissement|
 |nb des centres deja implementes|  https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=e0b99aac-98d0-4626-80bf-a1e95796ea93,https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=7b8218bc-faf9-4660-a8d8-1027e5679f08,https://www.data.gouv.fr/datasets/finess-structures-1?resource_id=cd493959-fb03-41e5-9347-0edd14dfbc22|🟡 | j ai pas encore bien verifie si ces bd contiennent des donnees vraiment utiles
 ---
 
