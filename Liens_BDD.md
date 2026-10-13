@@ -85,7 +85,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Distance mer | | 🔴 | |
+| Distance mer | [Trait de côte Histolitt (SHOM-IGN)](https://www.data.gouv.fr/datasets/shom-ign-trait-de-cote-histolitt-r)<br>[Contours administratifs des communes (Etalab / IGN Admin Express)](https://www.data.gouv.fr/datasets/contours-administratifs) | 🟢 | Variable à calculer (pas de base toute faite) : centroïde de chaque commune → distance au point le plus proche du trait de côte. Reprojeter en Lambert-93 (EPSG:2154) avant le calcul pour avoir des mètres (geopandas : `communes.centroid.distance(cote.unary_union)`). Garder seulement le trait de côte maritime (Atlantique) ; communes littorales ≈ 0 km. |
 | Distance montagne/forêt | https://www.data.gouv.fr/datasets/forets-publiques-diffusion-publique . https://www.data.gouv.fr/datasets/perimetre-de-massif-30382878| 🟢 | premier lien : forêt, deuxième lien : montagne|
 | Score loisirs/sports (piscine, foot, tennis, gym, rando, kayak, etc.) | https://equipements.sports.gouv.fr/explore/assets/data-es-equipement/| 🟢 | |
 | Fréquence événements (marchés, fêtes, concerts) |https://www.data.gouv.fr/datasets/donnees-touristiques-de-la-base-datatourisme | 🟢 | Il faut la calculer par villes|
