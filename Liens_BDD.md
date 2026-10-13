@@ -88,7 +88,7 @@
 | Distance mer | | 🔴 | |
 | Distance montagne/forêt | https://www.data.gouv.fr/datasets/forets-publiques-diffusion-publique . https://www.data.gouv.fr/datasets/perimetre-de-massif-30382878| 🟢 | premier lien : forêt, deuxième lien : montagne|
 | Score loisirs/sports (piscine, foot, tennis, gym, rando, kayak, etc.) | https://equipements.sports.gouv.fr/explore/assets/data-es-equipement/| 🟢 | |
-| Fréquence événements (marchés, fêtes, concerts) | | 🔴 | |
+| Fréquence événements (marchés, fêtes, concerts) |https://www.data.gouv.fr/datasets/donnees-touristiques-de-la-base-datatourisme | 🟢 | Il faut la calculer par villes|
 | Score environnement (pollution air, eau, nature) | | 🔴 | |
 
 ## E. ACCESSIBILITÉ & MOBILITÉ (12%) — 4 variables
