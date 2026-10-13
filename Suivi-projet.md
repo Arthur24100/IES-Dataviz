@@ -24,6 +24,7 @@
 | # | Date | Sujet principal | Compte-rendu |
 |---|---|---|---|
 | 1 | 22/09/2026 | Cours 2 Mise au point Sujet | [Aller au CR](#reunion-1) |
+| 2 | 13/10/2026 | Cours 3 Recherche de base de donnée | [Aller au CR](#reunion-2) |
 
 ---
 
@@ -108,6 +109,21 @@
 - Visualisation
     - Cartes des 3 régions avec pour chaque ville le score médical
     - Cartes des 3 régions avec pour chaque ville le score d'attractivité
+
+
+#### Actions à réaliser
+
+| Action | Responsable | Échéance | Statut |
+|---|---|---|---|
+| | | | À faire |
+
+### Réunion 2 — 13/10/2026 {#reunion-2}
+
+#### Points discutés
+
+
+#### Décisions prises
+
 
 
 #### Actions à réaliser
