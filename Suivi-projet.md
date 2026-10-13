@@ -34,7 +34,7 @@
 
 #### Points discutés
 - Optimisation spatiale prédictive pour santé publique départementale  
-    Où un conseiller régional doit-il placer 2 maisons médicales dans son département pour avoir le plus grand impact sanitaire avec le budget disponible ?
+    Où un conseiller régional doit-il placer 2 maisons médicales dans son département pour avoir le plus grand impact sanitaire ?
 
 #### Décisions prises
 - Choix de 3 départements de Nouvelle-aquitaine
