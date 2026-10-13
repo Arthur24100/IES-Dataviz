@@ -38,7 +38,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Consultations urgence par habitant/an | | 🔴 | |
+| Consultations urgence par habitant/an |https://www.data.gouv.fr/datasets/series-longues-corrigees-du-nombre-de-passages-aux-urgences-2017-a-2023-en-france | 🔴 |🟢 |
 | Délai moyen attente consultation généraliste | | 🔴 | |
 
 ## E. VULNÉRABILITÉ SOCIALE (7%) — 1 variable
