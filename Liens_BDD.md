@@ -18,7 +18,7 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Prévalence diabète |par département : https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-departement/ <br> https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-france/ <br> https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-region/| 🟢 | premier lien : par département; deuxième lien : pour la france; troisième lien : par région |
-| Prévalence hypertension | | 🔴 | |
+| Prévalence hypertension |https://www.data.gouv.fr/datasets/62b31f7b128643f46ea1f848  | 🟢 | |
 | Prévalence surpoids/obésité | | 🔴 | |
 | Prévalence BPCO/asthme | | 🔴 | |
 | % Population avec au moins 1 maladie chronique | | 🔴 | |
