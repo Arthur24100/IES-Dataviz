@@ -78,7 +78,7 @@
 |---|---|---|---|
 | Nombre écoles primaires, maternelles, collèges, lycées | https://www.data.gouv.fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres| 🟢 | |
 | Score équipements culturels (cinéma, musée, théâtre, galerie) | https://www.data.gouv.fr/datasets/base-des-lieux-et-equipements-culturels-basilic | 🟢 | |
-| Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant) |https://www.data.gouv.fr/datasets/base-nationale-des-commerces-ouverte | 🟢 | |
+| Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant) |https://www.insee.fr/fr/statistiques/8217537| 🟢 | |
 | Score santé locale (pharmacies, médecins proches) | | ⚙️ |A calculer par ville suivant la base de donnée score commerce |
 
 ## D. ENVIRONNEMENT & LOISIRS (15%) — 5 variables
