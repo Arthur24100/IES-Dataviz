@@ -51,7 +51,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Population totale | | 🔴 | |
+| Population totale | https://www.insee.fr/fr/statistiques/8560651 | 🟢| 1 er tableau à télécharger POP1 |
 | Nombre médecins généralistes | https://data.drees.solidarites-sante.gouv.fr/explore/dataset/la-demographie-des-professionnels-de-sante-depuis-2012/information/| |🟢 | |
 | Densité médicale (auto-calc) | — | ⚙️ | Calculée : médecins / population |
 | Ratio besoin/offre (auto-calc) | — | ⚙️ | Calculée à partir des scores |
