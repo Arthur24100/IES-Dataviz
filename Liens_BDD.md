@@ -103,5 +103,5 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Disponibilité logements (% en vente/location) |  https://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026 | 🔴 | |
+| Disponibilité logements (% en vente/location) |  https://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026 | 🟢 | |
 | | | 🔴 | |
