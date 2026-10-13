@@ -131,16 +131,16 @@ Pour commencer, nous sélectionnerons trois ou quatre bases de données afin de 
 
 Carte du score médical
 
-APL médecin généraliste (DREES) : Ratio besoin/offre
-Population par âge (INSEE) Vérifier quelles donne bien le code commune pour relier chaque personne à la ville. : % Population selon l'age
-Établissements de santé (FINESS / fichier établissements) : Présence centre de santé / pharmacie
-Taux de mortalité générale
+    - APL médecin généraliste (DREES) : Ratio besoin/offre
+    - Population par âge (INSEE) Vérifier quelles donne bien le code commune pour relier chaque personne à la ville. : % Population selon l'age
+    - Établissements de santé (FINESS / fichier établissements) : Présence centre de santé / pharmacie
+    - Taux de mortalité générale
 
 Carte du score d’attractivité
 
-Revenus des ménages (INSEE Filosofi) : Revenu moyen ménage
-Prix immobilier DVF par commune : Prix logement (EUR/m²)
-Équipements : Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant)
+    - Revenus des ménages (INSEE Filosofi) : Revenu moyen ménage
+    - Prix immobilier DVF par commune : Prix logement (EUR/m²)
+    - Équipements : Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant)
 
 
 #### Actions à réaliser
