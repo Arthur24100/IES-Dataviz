@@ -9,9 +9,9 @@
 |---|---|---|---|
 | Taux de mortalité générale | https://www.data.gouv.fr/datasets/causes-de-deces| 🟢 | |
 | Taux de mortalité prématurée (<75 ans) | | 🔴 | |
-| Surmortalité cardiovasculaire |https://www.insee.fr/fr/statistiques/2012788 | 🟢 |Fichier `TCRD_069.xlsx` |
-| Surmortalité cancers | | 🔴 | |
-| Surmortalité respiratoire | | 🔴 | |
+| Surmortalité cardiovasculaire |https://www.insee.fr/fr/statistiques/2012788 | 🟢 | |
+| Surmortalité cancers | https://www.insee.fr/fr/statistiques/2012788| 🟢 | |
+| Surmortalité respiratoire | https://www.insee.fr/fr/statistiques/2012788| 🟢 | |
 
 ## B. MORBIDITÉ (30%)
 
