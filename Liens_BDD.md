@@ -30,7 +30,7 @@
 | % Population 65+ | | 🔴 | |
 | % Population 75+ | | 🔴 | |
 | % Population 85+ | | 🔴 | |
-| Taux natalité | | 🔴 | |
+| Taux natalité | https://www.insee.fr/fr/statistiques/7673429?sommaire=7673431|🟢 | |
 | % Population 15-30 ans | | 🔴 | |
 | % Population 50+ | | 🔴 | |
 | % Population slon l'age| https://www.insee.fr/fr/statistiques/8581696|🟢|cette bd traite la population selon l'age et le sexe |
