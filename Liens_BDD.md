@@ -45,7 +45,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| % Population migrants/étrangers | | 🔴 | |
+| % Population migrants/étrangers | https://www.insee.fr/fr/statistiques/2381759| 🟢 | |
 
 ## F. OFFRE — 6 variables
 
