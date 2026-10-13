@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Taux de mortalité générale | https://www.data.gouv.fr/datasets/causes-de-deces| 🟢 | |
 | Taux de mortalité prématurée (<75 ans) | | 🔴 | |
-| Surmortalité cardiovasculaire |[INSEE — Causes de décès par département](https://www.insee.fr/fr/statistiques/2012788) | 🔴 | |
+| Surmortalité cardiovasculaire | | 🔴 | |
 | Surmortalité cancers | | 🔴 | |
 | Surmortalité respiratoire | | 🔴 | |
 
