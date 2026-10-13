@@ -39,7 +39,7 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Consultations urgence par habitant/an |https://www.data.gouv.fr/datasets/series-longues-corrigees-du-nombre-de-passages-aux-urgences-2017-a-2023-en-france | 🔴 |🟢 |
-| Délai moyen attente consultation généraliste | | 🔴 | |
+| Délai moyen attente consultation généraliste |https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-moitie-des-rendez-vous-sont-obtenus-en-2-jours-chez-le | 🟢  | Nb:elle contient aussi des donnees concernat les ophtalmologistes|
 
 ## E. VULNÉRABILITÉ SOCIALE (7%) — 1 variable
 
