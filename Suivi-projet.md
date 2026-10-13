@@ -111,6 +111,7 @@
     - Cartes des 3 régions avec pour chaque ville le score d'attractivité
 
 
+
 #### Actions à réaliser
 
 | Action | Responsable | Échéance | Statut |
@@ -123,7 +124,7 @@
 
 
 #### Décisions prises
-
+- Département : Creuse , Dordogne, Charente-Maritime
 
 
 #### Actions à réaliser
