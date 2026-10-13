@@ -8,7 +8,7 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Taux de mortalité générale | https://www.data.gouv.fr/datasets/causes-de-deces| 🟢 | |
-| Taux de mortalité prématurée (<75 ans) | | 🔴 | |
+| Taux de mortalité prématurée (<75 ans) | | 🟢 |Calculer à partir du Taux de mortalité générale |
 | Surmortalité cardiovasculaire |https://www.insee.fr/fr/statistiques/2012788 | 🟢 | |
 | Surmortalité cancers | https://www.insee.fr/fr/statistiques/2012788| 🟢 | |
 | Surmortalité respiratoire | https://www.insee.fr/fr/statistiques/2012788| 🟢 | |
