@@ -21,7 +21,7 @@
 | Prévalence hypertension |https://www.data.gouv.fr/datasets/62b31f7b128643f46ea1f848  | 🟢 | |
 | Prévalence surpoids/obésité | | 🔴 | |
 | Prévalence BPCO/asthme |  https://www.data.gouv.fr/datasets/62b31f7b128643f46ea1f848| 🟢 | |
-| % Population avec au moins 1 maladie chronique | | 🔴 | |
+| % Population avec au moins 1 maladie chronique | https://www.data.gouv.fr/datasets/personnes-en-affection-de-longue-duree-ald/<br>https://data.ameli.fr/pages/data-pathologies/ |🟢 | |
 
 ## C. DÉMOGRAPHIE (20%) — 6 variables
 
