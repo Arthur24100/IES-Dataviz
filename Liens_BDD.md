@@ -19,7 +19,7 @@
 |---|---|---|---|
 | Prévalence diabète |par département : https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-departement/ <br> https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-france/ <br> https://odisse.santepubliquefrance.fr/explore/assets/diabete-prevalence-region/| 🟢 | premier lien : par département; deuxième lien : pour la france; troisième lien : par région |
 | Prévalence hypertension |https://www.data.gouv.fr/datasets/62b31f7b128643f46ea1f848  | 🟢 | |
-| Prévalence surpoids/obésité |https://pmc.ncbi.nlm.nih.gov/articles/PMC9918095/<br>https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/enquete-sante-europeenne-ehis-edition-2019<br>https://www.constances.fr | 🔴 | |
+| Prévalence surpoids/obésité |https://pmc.ncbi.nlm.nih.gov/articles/PMC9918095/<br>https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/enquete-sante-europeenne-ehis-edition-2019<br>https://www.constances.fr | 🟡 | |
 | Prévalence BPCO/asthme |  https://www.data.gouv.fr/datasets/62b31f7b128643f46ea1f848| 🟢 | |
 | % Population avec au moins 1 maladie chronique | https://www.data.gouv.fr/datasets/personnes-en-affection-de-longue-duree-ald/<br>https://data.ameli.fr/pages/data-pathologies/ |🟢 | |
 
