@@ -93,7 +93,7 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Distance ville importante (réseau professionnel) | | 🔴 | |
-| Score transport (gare, bus, aéroport) | https://www.data.gouv.fr/datasets/nombre-de-stations-de-transports-en-commun-selon-le-type-de-reseau | 🟢 | |
+| Score transport (gare, bus, aéroport) | https://www.data.gouv.fr/datasets/nombre-de-stations-de-transports-en-commun-selon-le-type-de-reseau | 🔴 | |
 | Distance hôpital urgent | | 🔴 | |
 
 ## F. LOGEMENT & IMMOBILIER (10%) — 2 variables
