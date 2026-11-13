@@ -68,9 +68,9 @@
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
 | Budget municipal |https://www.impots.gouv.fr/cll/zf1/cll/zf1/accueil/flux.ex?_flowId=accueilcclloc-flow | 🟢 | lien donnant les données de la région, du département, ou de la commune|
-| Revenu moyen ménage | https://www.insee.fr/fr/statistiques/8984752 ,,,https://www.insee.fr/fr/statistiques/8229323| 🟢 | |
+| Revenu moyen ménage | https://www.insee.fr/fr/statistiques/8984752 ,,,https://www.insee.fr/fr/statistiques/8229323| 🔴 | |
 | Taux chômage | https://www.insee.fr/fr/statistiques/4805248| 🟢 | |
-| Prix logement (EUR/m²) | https://www.data.gouv.fr/datasets/prix-immobilier-par-commune-ventes-2014-a-2025-dvf-millesime-2026| 🟢 | |
+| Prix logement (EUR/m²) | https://www.data.gouv.fr/datasets/prix-immobilier-par-commune-ventes-2014-a-2025-dvf-millesime-2026| 🔴 | |
 
 ## C. QUALITÉ DE VIE - ÉQUIPEMENTS (15%) — 6 variables
 
@@ -78,7 +78,7 @@
 |---|---|---|---|
 | Nombre écoles primaires, maternelles, collèges, lycées | https://www.data.gouv.fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres| 🟢 | |
 | Score équipements culturels (cinéma, musée, théâtre, galerie) | https://www.data.gouv.fr/datasets/base-des-lieux-et-equipements-culturels-basilic | 🟢 | |
-| Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant) |https://www.insee.fr/fr/statistiques/8217537| 🟢 | |
+| Score commerces essentiels (super, boulangerie, boucherie, pharmacie, restaurant) |https://www.insee.fr/fr/statistiques/8217537| 🔴 | |
 | Score santé locale (pharmacies, médecins proches) | | ⚙️ |A calculer par ville suivant la base de donnée score commerce |
 
 ## D. ENVIRONNEMENT & LOISIRS (15%) — 5 variables
