@@ -67,7 +67,7 @@
 
 | Variable | Lien(s) source | Statut | Notes |
 |---|---|---|---|
-| Budget municipal |https://www.impots.gouv.fr/cll/zf1/cll/zf1/accueil/flux.ex?_flowId=accueilcclloc-flow | 🟢 | lien donnant les données de la région, du département, ou de la commune|
+| Budget municipal |https://www.impots.gouv.fr/cll/zf1/cll/zf1/accueil/flux.ex?_flowId=accueilcclloc-flow | 🔴 | lien donnant les données de la région, du département, ou de la commune|
 | Revenu moyen ménage | https://www.insee.fr/fr/statistiques/8984752 ,,,https://www.insee.fr/fr/statistiques/8229323| 🔴 | |
 | Taux chômage | https://www.insee.fr/fr/statistiques/4805248| 🟢 | |
 | Prix logement (EUR/m²) | https://www.data.gouv.fr/datasets/prix-immobilier-par-commune-ventes-2014-a-2025-dvf-millesime-2026| 🔴 | |
