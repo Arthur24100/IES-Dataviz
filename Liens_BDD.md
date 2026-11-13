@@ -98,9 +98,4 @@
 | Population rayon 15km (bassin de patients) | https://www.data.gouv.fr/datasets/population-municipale-des-communes-france-entiere | 🟢 | nb de pop pour chaque ville et commune |
 | Distance hôpital urgent | | 🔴 | |
 
-## F. LOGEMENT & IMMOBILIER (10%) — 2 variables
 
-| Variable | Lien(s) source | Statut | Notes |
-|---|---|---|---|
-| Disponibilité logements (% en vente/location) |  https://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026 | 🟢 | |
-| | | 🔴 | |
